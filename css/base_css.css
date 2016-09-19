@@ -1,0 +1,73 @@
+
+body {
+	width:425px;
+	font-size:12px;
+	font-family:"microsoft yahei";
+	padding:0px;
+	margin:0px;
+}
+.titleStyle {
+	border-bottom:1px solid #ebd5c4;
+	background:#eeeded;
+	padding:5px 5px 5px 10px;
+}
+.titleStyle a {
+	font-family:"microsoft yahei";
+	text-decoration: none;
+}
+.titleName {
+	font-size:16px;
+	font-weight:bold;
+	color:#53637d;
+}
+.titleMaker {
+	font-size:12px;
+	color:#53637d;
+}
+#contentDiv {
+	padding:10px 0px 15px 15px;
+}
+#contentDiv hr {
+	float:left;
+}
+#contentDiv font {
+	float:left;
+}
+#contentDiv a {
+	font-family:"microsoft yahei";
+	font-size:16px;
+	text-decoration: none;
+	color:black;
+}
+.classification {
+	padding-bottom:15px;
+	overflow:auto;
+}
+.shortHr {
+	width:14px;
+}
+.longHr {
+	width:340px;
+}
+.webNameDiv {
+	float:left;
+	min-width:56px;
+	padding-top:3px;
+	padding-left:10px;
+}
+#buttonDiv {
+	padding:0px 0px 5px 10px;
+}
+.footerStyle {
+	border-top:1px solid #ebd5c4;
+	background:#eeeded;
+	padding:5px 5px 5px 10px;
+}
+.footerStyle a {
+	font-family:"microsoft yahei";
+	font-weight:bold;
+	text-decoration: none;
+}
+.chk_fail {
+	color:red;
+}
