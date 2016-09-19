@@ -1,0 +1,17 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "签到小猪手 网站自动签到 手机版正在开发中...",
+   "icons": {"48": "img/icon.png"},
+   "manifest_version": 2,
+   "name": "签到小猪手",
+   "permissions": ["tabs", "notifications", "storage", "http://*/*","https://*/*"],
+   "version": "1.0"
+}
