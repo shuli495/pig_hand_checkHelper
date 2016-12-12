@@ -1,6 +1,6 @@
 # 签到小猪手
 浏览器插件，用于签到各种web网站。<br/><br/>
-官网：http://checkHelper.pighand.com<br/>
+官网：http://www.pighand.com<br/>
 下载：http://checkHelper.pighand.com/checkHelper.crx<br/>
 ```
 历史版本
